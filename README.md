@@ -1,5 +1,5 @@
 <!--
- * @Author: zi.yangr
+ * @Author: zi.yang
  * @Date: 2024-12-11 19:24:33
  * @LastEditors: zi.yang
  * @LastEditTime: 2025-06-10 00:11:43
@@ -7,7 +7,7 @@
  * @FilePath: /short-link/README.md
 -->
 
-# 短链接服务Th
+# 短链接服务
 
 一个基于 Vue、Fastify、Vercel 和 Supabase 构建的 URL 缩短服务。
 
